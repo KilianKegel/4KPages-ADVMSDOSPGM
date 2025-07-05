@@ -1,7 +1,6 @@
 # 4KPages-ADVMSDOSPGM
 Ray Duncan "Advanced MSDOS Programming"
 
-[PDF](https://1drv.ms/b/s!ArSwFV5bfcDrdBKV37HyNEwTuiw?e=7NAbQE)
 
 ![](https://github.com/KilianKegel/4KPages-ADVMSDOSPGM/blob/main/images/ADVMSDOSPGM_000.jpg)
 ![](https://github.com/KilianKegel/4KPages-ADVMSDOSPGM/blob/main/images/ADVMSDOSPGM_001.jpg)
